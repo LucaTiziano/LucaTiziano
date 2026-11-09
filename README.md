@@ -73,7 +73,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-LucaTiziano-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucaTiziano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Tiziano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-tiziano)
-
+[![Email](https://img.shields.io/badge/Correo-lbf0010%40alu.medac.es-2C5364?style=for-the-badge)](mailto:lbf0010@alu.medac.es)
 <br/>
 
 *"El mejor momento para empezar fue ayer. El segundo mejor es hoy."* ✨
